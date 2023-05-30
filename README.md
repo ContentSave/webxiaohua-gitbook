@@ -7,4 +7,4 @@ coverY: 0
 
 # 关于作者
 
-![](.gitbook/assets/0\_1.jpg)
+![](.gitbook/assets/0_1.jpg)
